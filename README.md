@@ -1,2 +1,2 @@
 # hackathon
-This is gfg hackathon folder
+This is gfg hackathon folder.
